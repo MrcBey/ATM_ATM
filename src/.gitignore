@@ -155,3 +155,5 @@ ClientBin/
 
 .idea/
 *.iml
+
+.idea/workspace.xml
